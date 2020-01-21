@@ -77,5 +77,5 @@ GPU: NVIDIA,  GeForce 840M,  4 GB
 ## Performance Measures
 ![GitHub Logo](https://github.com/nursultanbolel/Classification-Of-Consumer-Finance-Complaints/blob/master/images/performance.PNG)
 
- ## References
- [Kaggle](http://github.com)
+## References
+https://www.kaggle.com/cfpb/us-consumer-finance-complaints
