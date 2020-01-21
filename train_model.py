@@ -165,7 +165,7 @@ np.save('Y_test', Y_test)
 # Optimizer: adam
 # --------------------------------------------------------------------------------------
 embedding_dimensions = 100
-epochs = 3
+epochs = 5
 batch_size = 512
 
 model = Sequential()
