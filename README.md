@@ -17,7 +17,7 @@ Classification of consumer's complaints from .csv file. It is simple text classi
 
 - I used just two columns that are 'product' and 'consumer_complaint_narrative'. The aim is to predict the product according to consumer narrative.
 
-- 'product' was including 13 different value. I joined same department and then now it has 10 different value. These values' information is shown below.
+- 'product' was including 13 different values. I joined same department and then now it has 10 different value. These values' information is shown below.
 
 ![GitHub Logo](https://github.com/nursultanbolel/Classification-Of-Consumer-Finance-Complaints/blob/master/images/product_inf.png)
 
