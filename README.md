@@ -11,7 +11,7 @@ Classification of consumer's complaints from .csv file. It is simple text classi
 
 - I used .csv file  you can find there [Kaggle](https://www.kaggle.com/cfpb/us-consumer-finance-complaints)
 
-- Information of .csv file is shown below in Spyder IDE.
+- Information of .csv file is shown below in Spyder IDE console screen.
 
 ![GitHub Logo](https://github.com/nursultanbolel/Classification-Of-Consumer-Finance-Complaints/blob/master/images/dataframe_inf.png)
 
